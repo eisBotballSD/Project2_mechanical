@@ -15,6 +15,8 @@ int main()
 {
     //Trying out a pull request - this didn't work the first time we did this
     // still isn't working - I think we have to merge branches
+    // we tried to merge the branches but then it gets rid of the pull request?
+    // not sure what we're doing wrong
     //wait_for_light(5);
     shut_down_in(120);
     
